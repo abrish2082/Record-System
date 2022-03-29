@@ -23,14 +23,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
       <scope>test</scope>  
     </dependency>  
   </dependencies>  
-<distributionManagement>
-    <repository>
-      <uniqueVersion>false</uniqueVersion>
-      <id>corp1</id>
-      <name>Corporate Repository</name>
-      <url>scp://repo/maven2</url>
-      <layout>default</layout>
-    </repository>
+
     
 </distributionManagement> 
 
