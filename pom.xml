@@ -10,7 +10,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <groupId>com.javatpoint.record-system</groupId>  
   <artifactId>system-record</artifactId>  
   <version>1.0</version>  
-  <packaging>jar</packaging>   
+  <packaging>war</packaging>   
   
   <name>Maven Quick Start Archetype</name>  
   <url>http://maven.apache.org</url>  
